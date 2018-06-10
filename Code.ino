@@ -36,9 +36,6 @@ while(1)
    c = Serial.read();
    }
 
-  
-   
-
    
 
   int v = 0; 
